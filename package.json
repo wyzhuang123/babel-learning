@@ -11,12 +11,15 @@
   "license": "ISC",
   "dependencies": {
     "@babel/core": "^7.20.2",
+    "@babel/eslint-parser": "^7.19.1",
     "@babel/helper-module-imports": "^7.18.6",
     "@babel/helper-plugin-utils": "^7.20.2",
     "@babel/parser": "^7.20.1",
     "babel": "^6.23.0",
     "babel-core": "^6.26.3",
+    "babel-types": "^6.26.0",
     "doctrine": "^3.0.0",
+    "eslint": "^8.29.0",
     "fs-extra": "^11.1.0"
   }
 }

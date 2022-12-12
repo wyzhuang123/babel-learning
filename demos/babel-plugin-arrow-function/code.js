@@ -1,4 +1,8 @@
 const fn = (a, b) => {
+
+	const demo = () => {
+		console.log(this);
+	}
 	return a + b;
 }
 
